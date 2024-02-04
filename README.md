@@ -1,2 +1,5 @@
 # MyProfile
-MYPORTFOLI
+Portfolio built using
+- HTML
+- CSS
+- Javascript 
